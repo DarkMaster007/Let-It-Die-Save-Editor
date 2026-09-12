@@ -144,6 +144,15 @@ from core.tower import (
     unlock_tutorial_and_waiting_room,
 )
 
+from core.deathbag_reader import (
+    get_deathbag_fighter_items,
+    get_deathbag_summary,
+    get_deathbag_material_counts,
+    get_deathbag_mushroom_counts,
+    get_deathbag_beast_counts,
+    get_deathbag_equipment_counts,
+)
+
 __all__ = [
     'AssetManager',
     '_assign_to_coin_locker',

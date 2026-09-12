@@ -1,47 +1,33 @@
-# Personal Saves & Backups (CRITICAL: Do not commit player data)
-CurrentSave/
-*.sav
-Backups/
-backups/
-SaveSlots/
-*.bak
-masters.db.original.bak
-
-# Python cache & virtual environments
-__pycache__/
-*.py[cod]
-*$py.class
-*.pyc
-.pytest_cache/
-env/
-venv/
-.env
-
-# Editor & OS files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
+# macOS
 .DS_Store
-Thumbs.db
-desktop.ini
 
-# Temporary and test logs
-*.log
-.system_generated/
-scratch/
-config.json
+# Node
+node_modules/
+npm-debug.log*
 
-# PyInstaller & Build artifacts
-dist/
-build/
-*.spec
-*.exe
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
 
-# Game database binaries
-*.db
-*.db.*
+# Save files — contain Steam ID + session keys, never commit these
+*.sav
+*.sav.bak
+*.sav.pre-*
 
-# Local CDN asset cache
-cache/
+# Editor / runtime artifacts
+SaveSlots/
+ui/__pycache__/
+ui_qt/__pycache__/
+core/__pycache__/
+todo_tracker/__pycache__/
+todo_tracker/ui/__pycache__/
+todo_tracker/ui/dialogs/__pycache__/
+todo_tracker/ui/tabs/__pycache__/
+
+# Editor artifacts
+*.bak
 

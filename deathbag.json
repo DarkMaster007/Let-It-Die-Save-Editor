@@ -1,0 +1,2958 @@
+{
+  "356300": {
+    "18737529-6619-402b-b0c3-75668c00a2c4": [
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 0,
+        "type": 0,
+        "eid": "fb2e2c4c-ef89-413b-9c6f-a7c0135b0a6f",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 1,
+        "type": 0,
+        "eid": "8283a62b-8335-4ba0-a562-caed1b0301a3",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 2,
+        "type": 0,
+        "eid": "b794aba8-0e71-48f4-a6f7-5652b7043cbb",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 3,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "18737529-6619-402b-b0c3-75668c00a2c4",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38": [
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 0,
+        "type": 0,
+        "eid": "2aa40855-3b30-4b3c-944d-61cbb45d2e28",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 1,
+        "type": 0,
+        "eid": "0f5933b4-6c37-4e0c-ac39-b98f2050c144",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 2,
+        "type": 0,
+        "eid": "e9391aa8-f970-437c-b62e-80d97cfc92da",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 3,
+        "type": 1,
+        "eid": "f113da4b-cbc5-4934-a49a-189fb4c9b008",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 4,
+        "type": 1,
+        "eid": "a1e8fc93-eb69-431d-aa9b-0f03b47c6010",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 5,
+        "type": 1,
+        "eid": "791171af-bdae-4140-a922-0029da54e6de",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 6,
+        "type": 1,
+        "eid": "3350b847-a5de-413b-a886-bb9fa432cad5",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 7,
+        "type": 2,
+        "eid": "9a3659dd-a71d-42b6-8f39-3d11277279fb",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 22,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 23,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 24,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 25,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 26,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 27,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 28,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 29,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 30,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 31,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 32,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 33,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 34,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 35,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 36,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 37,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "2eb940ba-32c3-48d6-b74a-f27c4cc4bb38",
+        "slot": 38,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "33947f7d-9cfe-4401-bcd4-ff185eb91f93": [
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 0,
+        "type": 0,
+        "eid": "8f7dd583-b78e-44e0-9b93-7233711e8bdd",
+        "site": "",
+        "arm_slot": 1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 1,
+        "type": 1,
+        "eid": "69f195cf-540a-4390-9c90-e8f52ccd893b",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 2,
+        "type": 0,
+        "eid": "ea2b072d-e381-49be-9ad8-77fb4c5b8050",
+        "site": "EQSITE_ARML",
+        "arm_slot": 5
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 3,
+        "type": 0,
+        "eid": "df4688d8-ee51-4132-96d1-ea38b291100c",
+        "site": "",
+        "arm_slot": 4
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 4,
+        "type": 0,
+        "eid": "d18619b7-c3f5-4f38-98e7-9e97d852647c",
+        "site": "",
+        "arm_slot": 3
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 5,
+        "type": 1,
+        "eid": "3cacd113-96fe-402f-a9f4-c0b5a301fd5c",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 6,
+        "type": 0,
+        "eid": "2aa34ad2-f525-4269-ae4b-4e5488087b0a",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 7,
+        "type": 0,
+        "eid": "e785cffc-119a-45b1-948f-0ab221d848f6",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 8,
+        "type": 1,
+        "eid": "7e53ec0a-8f26-4394-b323-5930710d709b",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 9,
+        "type": 1,
+        "eid": "c629d95b-9e85-4b5e-bb84-bddd561e308e",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 10,
+        "type": 1,
+        "eid": "27112e78-df02-47d9-903d-48cbeb92e205",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 11,
+        "type": 1,
+        "eid": "00cd3ae2-5283-4872-ad5a-bfd0fd77ec39",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 12,
+        "type": 2,
+        "eid": "ca5673de-4173-4550-a822-71dd92841ff4",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 13,
+        "type": 2,
+        "eid": "5a80c3da-d0af-4b43-ac65-61a2c959ca21",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 14,
+        "type": 2,
+        "eid": "1bdd1467-1ac9-40af-8af3-ab73eeff9686",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 15,
+        "type": 3,
+        "eid": "8a2e5612-0f10-4502-bac2-959f7cfde130",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 16,
+        "type": 1,
+        "eid": "a5ec12ab-e341-4675-b796-1b29972ba789",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 17,
+        "type": 1,
+        "eid": "35a82920-faaa-4696-bbdf-ce03e76a2e2b",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 18,
+        "type": 3,
+        "eid": "b80265ee-6442-4199-be84-7ae2fe1ce8dc",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 22,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 23,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 24,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 25,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 26,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 27,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 28,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 29,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 30,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 31,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 32,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 33,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 34,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 35,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 36,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 37,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 38,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 39,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 40,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 41,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 42,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 43,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 44,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 45,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 46,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "33947f7d-9cfe-4401-bcd4-ff185eb91f93",
+        "slot": 47,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "3a41b523-7e3e-4972-9b6f-e3a6fc51f902": [
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 0,
+        "type": 0,
+        "eid": "776ae4a9-b667-4d56-817a-a3a5cd5bf79b",
+        "site": "",
+        "arm_slot": 4
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 1,
+        "type": 0,
+        "eid": "67541b5f-5ac9-4fe0-a54e-04a6e291d201",
+        "site": "EQSITE_ARML",
+        "arm_slot": 3
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 2,
+        "type": 0,
+        "eid": "49c01ea9-20ac-4c4e-a26d-ac17e2c227ab",
+        "site": "EQSITE_ARMR",
+        "arm_slot": 0
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 3,
+        "type": 0,
+        "eid": "6ba93113-c4a7-4584-b0d3-0aa3d041f8d5",
+        "site": "",
+        "arm_slot": 1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 4,
+        "type": 0,
+        "eid": "a95f75dd-feee-40f4-90d3-ba402553c786",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 5,
+        "type": 0,
+        "eid": "8bbd166c-bf4e-432f-90d2-1fe35360e854",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 6,
+        "type": 0,
+        "eid": "aa3b5a19-bd1a-463a-a4ba-fca03ea32573",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3a41b523-7e3e-4972-9b6f-e3a6fc51f902",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "3d05555d-6500-483d-ab05-be4d5b04cbd7": [
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 0,
+        "type": 0,
+        "eid": "39753f79-c786-4af0-b9de-ef671af5633d",
+        "site": "",
+        "arm_slot": 4
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 1,
+        "type": 0,
+        "eid": "d1132137-ea36-49b4-93c7-b077ec8cdd2e",
+        "site": "",
+        "arm_slot": 0
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 2,
+        "type": 0,
+        "eid": "64275089-8143-4ced-a188-0b873a30f3b5",
+        "site": "EQSITE_ARML",
+        "arm_slot": 3
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 3,
+        "type": 0,
+        "eid": "4fb39ae2-b2a7-4600-a9fc-2266fbe9e8ce",
+        "site": "",
+        "arm_slot": 5
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 4,
+        "type": 0,
+        "eid": "ddade4fc-c56b-4870-bfd5-38973529464f",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 5,
+        "type": 0,
+        "eid": "46ca2b41-5306-4e64-a3c2-c1b13978dd1f",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 6,
+        "type": 0,
+        "eid": "14234837-cc4f-4cff-b0e4-8b71a7a27283",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 7,
+        "type": 1,
+        "eid": "6e9cf82c-bbd9-441a-8aae-9daa474405a1",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 8,
+        "type": 1,
+        "eid": "3c3b0c01-646e-4202-a4ad-3b1e6b2d65c3",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 9,
+        "type": 1,
+        "eid": "41d0cfa2-e463-4860-91ea-8778e364ab58",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 10,
+        "type": 2,
+        "eid": "b4c64442-7b78-4df5-b59f-c0547f64a842",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "3d05555d-6500-483d-ab05-be4d5b04cbd7",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "51095582-9724-409a-b04d-c602e0ea205b": [
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 0,
+        "type": 0,
+        "eid": "8bf9c259-0e06-42ff-8f3d-99dff344a2f6",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 1,
+        "type": 0,
+        "eid": "b49a5060-c5f4-4128-8703-2e623f24c383",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 2,
+        "type": 0,
+        "eid": "6bab3b31-00a4-4229-85c5-fb27686da450",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 3,
+        "type": 0,
+        "eid": "9962ed21-b2c7-4fea-994d-467766cdd542",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 4,
+        "type": 0,
+        "eid": "72bf5b01-83e4-4c25-8874-5b329750c266",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 5,
+        "type": 1,
+        "eid": "18776cc6-c8e7-4249-815f-f432d96f123e",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 6,
+        "type": 2,
+        "eid": "bf8c3dd5-3c93-493b-bb9b-40bd927c0c81",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 7,
+        "type": 2,
+        "eid": "e10b80ce-bd07-4cf1-9b66-dc711db7aa24",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 8,
+        "type": 3,
+        "eid": "181c29bd-e8a7-4ed0-a42f-b3d36e399ce7",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 9,
+        "type": 3,
+        "eid": "1537c502-02d2-411a-88c2-370e352b3847",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "51095582-9724-409a-b04d-c602e0ea205b",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "6ac89ffa-e25e-4ca1-a52c-c58f15d78666": [
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 0,
+        "type": 0,
+        "eid": "03185e2d-95aa-442f-9a77-c1541c54b2a3",
+        "site": "EQSITE_ARML",
+        "arm_slot": 3
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 1,
+        "type": 0,
+        "eid": "63ec45d3-365f-4dee-b35c-47819b9487de",
+        "site": "",
+        "arm_slot": 5
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 2,
+        "type": 0,
+        "eid": "f6ce7b8d-5805-487f-a89d-df8dd019107a",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 3,
+        "type": 0,
+        "eid": "02dcb3d4-a66d-4215-bb62-b8ece594b6c0",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 22,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 23,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 24,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 25,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 26,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 27,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 28,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "6ac89ffa-e25e-4ca1-a52c-c58f15d78666",
+        "slot": 29,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "7c996bd3-25b8-4e6e-b598-448ba19325f2": [
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 0,
+        "type": 0,
+        "eid": "3292e8ac-f524-4672-8aa5-812bb3edf228",
+        "site": "EQSITE_ARML",
+        "arm_slot": 3
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 1,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 2,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 3,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "7c996bd3-25b8-4e6e-b598-448ba19325f2",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "80b56ecd-c001-4436-9eec-45b3c1fb2a63": [
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 0,
+        "type": 0,
+        "eid": "96b11713-ac1c-451f-85ad-d2e93a2ebfc8",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 1,
+        "type": 0,
+        "eid": "55cb1cf8-8703-400a-bcef-ac77b08b6f93",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 2,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 3,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 22,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 23,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 24,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 25,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 26,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 27,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 28,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 29,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 30,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 31,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 32,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 33,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 34,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 35,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 36,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 37,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 38,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 39,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 40,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 41,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "80b56ecd-c001-4436-9eec-45b3c1fb2a63",
+        "slot": 42,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ],
+    "a1b40373-7aba-4bef-8398-cbee0d7d754f": [
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 0,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 1,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 2,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 3,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 22,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": 356300,
+        "cid": "a1b40373-7aba-4bef-8398-cbee0d7d754f",
+        "slot": 23,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ]
+  },
+  "-1": {
+    "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0": [
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 0,
+        "type": 0,
+        "eid": "83f5faf3-2922-4d90-8120-f164f3ba8b13",
+        "site": "EQSITE_ARML",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 1,
+        "type": 0,
+        "eid": "35c5cb04-96a7-455e-b581-c9fff11ada4c",
+        "site": "EQSITE_ARMR",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 2,
+        "type": 0,
+        "eid": "4b168c15-6a37-46bc-8159-4188d60ca9e2",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 3,
+        "type": 0,
+        "eid": "46f586b3-1c9a-4888-8867-197a8b35751b",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 4,
+        "type": 0,
+        "eid": "496960ce-87e0-4818-b81e-ee9c715b0936",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -1,
+        "cid": "aa6e9b7e-0c6e-4ad6-b009-d86b5a489af0",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ]
+  },
+  "-19": {
+    "15c6e18f-1e00-4fcd-906b-0d7042206a16": [
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 0,
+        "type": 0,
+        "eid": "1b0c615d-ab68-49b0-ae10-c49e50fa0908",
+        "site": "EQSITE_ARMR",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 1,
+        "type": 0,
+        "eid": "e3be2009-20cb-443f-83ea-6aa3d768aad3",
+        "site": "EQSITE_BODY",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 2,
+        "type": 0,
+        "eid": "65715eea-72a9-435a-bac7-b6f9de78eabb",
+        "site": "EQSITE_HEAD",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 3,
+        "type": 0,
+        "eid": "db0d69b1-94d3-4ef9-8dc6-88115da50f2f",
+        "site": "EQSITE_LEGS",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 4,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 5,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 6,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 7,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 8,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 9,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 10,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 11,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 12,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 13,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 14,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 15,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 16,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 17,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 18,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 19,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 20,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      },
+      {
+        "uid": -19,
+        "cid": "15c6e18f-1e00-4fcd-906b-0d7042206a16",
+        "slot": 21,
+        "type": -1,
+        "eid": "",
+        "site": "",
+        "arm_slot": -1
+      }
+    ]
+  },
+  "-15": {},
+  "-16": {},
+  "-17": {},
+  "-18": {},
+  "-20": {},
+  "-21": {},
+  "-14": {},
+  "-8": {},
+  "-9": {},
+  "-10": {},
+  "-11": {},
+  "-12": {},
+  "-13": {},
+  "-2": {},
+  "-3": {},
+  "-4": {},
+  "-5": {},
+  "-6": {},
+  "-7": {}
+}
