@@ -3,7 +3,7 @@
 set -euo pipefail
 
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-VENV_DIR="${PROJECT_DIR}/.venv"
+VENV_DIR="${PROJECT_DIR}/venv"
 REQS="${PROJECT_DIR}/requirements.txt"
 LAUNCHER="${PROJECT_DIR}/start_todo_tracker.py"
 

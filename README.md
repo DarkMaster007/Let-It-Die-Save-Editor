@@ -88,7 +88,73 @@ Qt action -> modifiers/core function -> active save dictionary
 
 Core operations usually mutate the supplied dictionary in place. The UI owns selection, input, refreshes and when to persist the result. `modifiers.py` is an import surface, not a second implementation of the game rules. A function with a similar name is not a valid adapter unless its arguments and behavior match the operation being requested.
 
-## Binary save format
+## TODO Tracker
+
+A read-only TODO tracker for monitoring grinding progress toward material, mushroom, beast and currency targets. It reads the encrypted `.sav` file and reports how much of each tracked item is in Coin Locker storage, in fighters' deathbags, and in items sent back to F0 / Waiting room via Dustin (found in `soul.present` under `DUSTSHOOTER_CHARGE`).
+
+The tracker does not modify the save file.
+
+### Running
+
+From a checkout with the project dependencies installed:
+
+```bash
+python3 start_todo_tracker.py
+```
+
+Or use the project launcher scripts after setting up a virtual environment:
+
+```bash
+./setup_and_run.sh            # Linux
+setup_and_run.bat             # Windows
+```
+
+Use `--save <path>` to open a specific save on launch:
+
+```bash
+python3 start_todo_tracker.py --save Savedata/76561198140783693.sav
+```
+
+The save path can also be selected from the File menu or the Select Save File button.
+
+### Reading saves directly
+
+Three CLI scripts read specific save structures from an encrypted `.sav`:
+
+```bash
+python3 read_deathbag.py <save.sav>        # fighter deathbags
+python3 read_base_storage.py <save.sav>    # soul.cl Coin Locker contents
+python3 read_reward_box.py <save.sav>      # soul.present (including Dustin-sent items)
+```
+
+Each script can also pick a file with a file dialog when no path is given.
+
+### How the progress counter works
+
+Each TODO item shows the storage amount and target, for example `12/207`. When a non-storage amount is present — items in a fighter's deathbag or items sent to base via Dustin — a green `+n` prefix is shown on the left of that counter, for example `+3 12/207`. The prefix is omitted entirely when the combined non-storage count is zero.
+
+### Adding and managing TODOs
+
+Use the Add TODO dialog to pick a material, mushroom, beast or currency, give it a target amount, and start tracking it. Double-click a row to edit a TODO. Completed TODOs can be cleared from the TODO menu. The TODO list is saved as JSON in `~/.lid_todo_tracker/todo_list.json`.
+
+### Files
+
+```text
+start_todo_tracker.py     Launcher
+setup_and_run.sh / .bat   Virtual environment setup and launch helpers
+todo_tracker/
+  read_save.py            Save analysis: storage, deathbag, Dustin-sent items, currencies
+  todo_manager.py         TODO list management and progress tracking
+  todo_types.py           TodoItem and TodoType definitions
+  gui.py                  PySide6 interface and progress column delegate
+  test_todo_tracker.py    Basic tests
+```
+
+### Notes
+
+- The tracker is read-only. It does not write to the save file.
+- The Dustin-sent items count reflects items waiting in base storage / the Reward Box. Once those items are collected in-game and moved into the Coin Locker, they are counted as storage and the `+n` prefix is reduced accordingly.
+- Personal saves and the game database are not included in the repository.
 
 The implementation is in [save_io.py](save_io.py). Integer fields below are unsigned 32-bit little-endian values.
 
